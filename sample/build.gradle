@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
 
     defaultConfig {
         applicationId "com.pavelsikun.seekbarpreference.sample"
-        minSdkVersion 7
+        minSdkVersion 9
         targetSdkVersion 23
         versionCode 6
         versionName "6.0"
